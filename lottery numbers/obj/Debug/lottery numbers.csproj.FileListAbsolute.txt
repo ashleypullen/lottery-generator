@@ -1,0 +1,10 @@
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\bin\Debug\lottery numbers.exe.config
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\bin\Debug\lottery numbers.exe
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\bin\Debug\lottery numbers.pdb
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\obj\Debug\lottery_numbers.Form1.resources
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\obj\Debug\lottery_numbers.Properties.Resources.resources
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\obj\Debug\lottery numbers.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\obj\Debug\lottery numbers.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\obj\Debug\lottery numbers.exe
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\obj\Debug\lottery numbers.pdb
+C:\Users\ashle\source\repos\lottery numbers\lottery numbers\obj\Debug\lottery numbers.csproj.AssemblyReference.cache
